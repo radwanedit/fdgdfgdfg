@@ -906,7 +906,7 @@ client.on("message", message => {
 client.on('message', message => {
   if (true) {
 if (message.content === '^^support') {
-      message.author.send(' |https://discord.gg/VAHFcdz| لـ أي استفسار').catch(e => console.log(e.stack));
+      message.author.send(' |https://discord.gg/FC3XQSY| لـ أي استفسار').catch(e => console.log(e.stack));
 
     }
    } 
